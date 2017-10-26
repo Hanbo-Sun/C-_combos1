@@ -2,7 +2,9 @@
 knapsack; local word alignment; knight tours problem; change money problem
 
 Each cpp corresponding one problem:
-    knapsack\\
+
+    knapsack
+    
     local word alignment\\
     knight tours problem\\
     change money problem
